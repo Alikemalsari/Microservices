@@ -19,9 +19,15 @@ namespace Microservices.Controllers
         }
 
         [HttpGet("{Id}")]
-        public ContactDTO Get(int Id)
+        public ContactDTO GetById(int Id)
         {
           return contactService.GetContactById(Id);
+        }
+
+        [HttpGet]
+        public ContactDTO GetAll() 
+        {
+            return contactService.GetAllUsers();
         }
     }
 }

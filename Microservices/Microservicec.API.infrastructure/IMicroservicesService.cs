@@ -9,6 +9,7 @@ namespace Microservicec.API.infrastructure
 {
     public interface IMicroservicesService
     {
+        public ContactDTO GetAllUsers();
         public ContactDTO GetContactById(int Id);
     }
 }
