@@ -1,0 +1,17 @@
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Microservices.API.Services.deps.json
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Microservices.API.Services.dll
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Microservices.API.Services.pdb
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Micriservices.API.Models.dll
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Microservicec.API.infrastructure.dll
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Microservicec.API.infrastructure.pdb
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\bin\Debug\net6.0\Micriservices.API.Models.pdb
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.csproj.AssemblyReference.cache
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.AssemblyInfoInputs.cache
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.AssemblyInfo.cs
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.csproj.CopyComplete
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.dll
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\refint\Microservices.API.Services.dll
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\Microservices.API.Services.pdb
+C:\Users\akema\source\repos\Microservices\Microservices.API.Services\obj\Debug\net6.0\ref\Microservices.API.Services.dll

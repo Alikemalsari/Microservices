@@ -1,0 +1,12 @@
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\bin\Debug\net6.0\Micriservices.API.Models.deps.json
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\bin\Debug\net6.0\Micriservices.API.Models.dll
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\bin\Debug\net6.0\Micriservices.API.Models.pdb
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.csproj.AssemblyReference.cache
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.AssemblyInfoInputs.cache
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.AssemblyInfo.cs
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.dll
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\refint\Micriservices.API.Models.dll
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\Micriservices.API.Models.pdb
+C:\Users\akema\source\repos\Microservices\Micriservices.API.Models\obj\Debug\net6.0\ref\Micriservices.API.Models.dll

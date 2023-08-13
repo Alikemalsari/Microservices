@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Microservicec.API.infrastructure/1.0.0": {
+        "dependencies": {
+          "Micriservices.API.Models": "1.0.0"
+        },
+        "runtime": {
+          "Microservicec.API.infrastructure.dll": {}
+        }
+      },
+      "Micriservices.API.Models/1.0.0": {
+        "runtime": {
+          "Micriservices.API.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microservicec.API.infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Micriservices.API.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

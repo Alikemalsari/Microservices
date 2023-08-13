@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Micriservices.API.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Micriservices.API.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Micriservices.API.Models.dll": {}
+        }
+      },
+      "Microservicec.API.infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Micriservices.API.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Microservicec.API.infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservicec.API.infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Micriservices.API.Models/1.0.0": {
+      "type": "project",
+      "path": "../Micriservices.API.Models/Micriservices.API.Models.csproj",
+      "msbuildProject": "../Micriservices.API.Models/Micriservices.API.Models.csproj"
+    },
+    "Microservicec.API.infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Microservicec.API.infrastructure/Microservicec.API.infrastructure.csproj",
+      "msbuildProject": "../Microservicec.API.infrastructure/Microservicec.API.infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microservicec.API.infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\akema\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\akema\\source\\repos\\Microservices\\Microservices.API.Services\\Microservices.API.Services.csproj",
+      "projectName": "Microservices.API.Services",
+      "projectPath": "C:\\Users\\akema\\source\\repos\\Microservices\\Microservices.API.Services\\Microservices.API.Services.csproj",
+      "packagesPath": "C:\\Users\\akema\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akema\\source\\repos\\Microservices\\Microservices.API.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\akema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\akema\\source\\repos\\Microservices\\Microservicec.API.infrastructure\\Microservicec.API.infrastructure.csproj": {
+              "projectPath": "C:\\Users\\akema\\source\\repos\\Microservices\\Microservicec.API.infrastructure\\Microservicec.API.infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
