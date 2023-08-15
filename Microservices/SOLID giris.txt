@@ -1,0 +1,7 @@
+SOLİD prensipleri bize proje mimarisini kurarken yardımcı olur. OOP dil kullanmak ya da sınıflar, polimorfism, inheritanc gibi yapıları kullanmak temiz ve okunaklı bir proje için tek başına yeterli değil. 
+sadece bu şekilde yapıları örneğin class yapısı kullanıldığı takdir de de çok fazla class orataya çıkacak ve yönetilme sorunu orta olacak.
+Bu şekilde de projenin hayatına sağlıklı olarak devam etmesi pek mümkün değil .
+bir proje yaptığımız zaman minimium 2-3 yıl yine o projeye destek devam edecek. 
+proje adına müşteriden yeni bir talep geldiğinde ya da bir sıkıntı olduğunda bunları çözüme biz ulaştıracağız.
+Yani bu projelere daha sobralarda da bakacağımız için okuması kolay, bakımının yapılması kolay projeler tasarlamak çok önemli. (ileride kulağımızın çınlamaması için de)
+SOLID prensipleri de temelde bize bunları sağlar.
